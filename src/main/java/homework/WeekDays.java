@@ -14,7 +14,7 @@ public class WeekDays {
         daysList.add("Thursday");
         daysList.add("Friday");
         daysList.add("Saturday");
-        daysList.add("Saturday1");
+        daysList.add("Saturday2");
 
         if (dayNumber == null) {
             throw new NullPointerException();
